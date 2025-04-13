@@ -1,6 +1,7 @@
 # PCB Design of a Buck Converter for Embedded Applications
  
 created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year Engineering student)
+
 ---
 # Introduction 
 Hi , this project is a part of the ENE311: Fundamentals of Electronic Product Design course at King Mongkut's University of Technology Thonburi (KMUTT).
