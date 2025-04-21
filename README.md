@@ -40,3 +40,8 @@ This Buck Converter for Embedded Applications is based on [LM2596](https://githu
 # Testing
 ![Test1](https://github.com/XACKIES/PCB-Design-of-a-Buck-Converter-for-Embedded-Applications/blob/main/Doc/Screenshot%202025-04-12%20185058.png)
 ![Test2](https://github.com/XACKIES/PCB-Design-of-a-Buck-Converter-for-Embedded-Applications/blob/main/Doc/Screenshot%202025-04-12%20185035.png)
+
+
+# Report (Thai version)
+
+You can read all Information in Here
